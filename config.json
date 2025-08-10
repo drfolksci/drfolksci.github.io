@@ -4,8 +4,9 @@
   "avatarUrl": "https://cdn.jsdelivr.net/gh/drfolksci/image-host@main/头像.png",
   "bottomText": "❤️转载请注明出处❤️",
   "needComment": true,
+  "onePageListNum":15,
   "startSite":"08/03/2025",
-    "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+  "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
   "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
   "GMEEK_VERSION": "last"
 }
